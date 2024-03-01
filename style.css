@@ -12,11 +12,25 @@ body{
 }
 .rt{
     display: block;
+    padding: 10px;
+    margin: 8px;
+    border-color: aqua;
+    font-size: 20px;
 }
 .ee{
     display: block;
-    width: 167px;
+    width: 100%;
+    color: aqua;
+    background-color: chocolate;
+    height: 30px;
+    cursor: pointer;
 }
 .my{
     display: block;
+}
+.my{
+    background-color: deeppink;
+    margin: 20px auto;
+    padding: 15px;
+    max-width: 320px;
 }
